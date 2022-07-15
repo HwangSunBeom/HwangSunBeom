@@ -1,17 +1,18 @@
-# 안녕하세요 초짜 개발자 황순범입니다. 
-# 지금은 리액트 네이티브를 공부하며, 프로젝트를 진행하고 있어요 :)
+안녕하세요 초짜 개발자 황순범입니다.
+지금은 리액트 네이티브를 공부하며, 프로젝트를 진행하고 있어요 :)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark)
 
 
-## Develop Stacks
+## Developer Stacks
 <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=CSS3&logoColor=#1572B6"/>  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>  <img src="https://img.shields.io/badge/ReactNative-000000?style=for-the-badge&logo=React&logoColor=#61DAFB"/>  <img src="https://img.shields.io/badge/jQuery-000000?style=for-the-badge&logo=jQuery&logoColor=#0769AD"/>  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=Node.js&logoColor=#339933"/>  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=#3776AB"/>  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=Django&logoColor=#092E20"/>  
 ## Design Tools
 <img src="https://img.shields.io/badge/Adobe XD-000000?style=for-the-badge&logo=Adobe XD&logoColor=#FF61F6"/>  <img src="https://img.shields.io/badge/Adobe Photoshop-000000?style=for-the-badge&logo=Adobe Photoshop&logoColor=#31A8FF"/>  <img src="https://img.shields.io/badge/Adobe Premiere Pro-000000?style=for-the-badge&logo=Adobe Premiere Pro&logoColor=#9999FF"/>  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=Figma&logoColor=#F24E1E"/>
+## Contact
+<img src="https://img.shields.io/badge/wsbs9805@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSunBeom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSunBeom&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 <!--
