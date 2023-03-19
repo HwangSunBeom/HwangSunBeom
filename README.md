@@ -1,5 +1,5 @@
 Hi, 프론트 개발자 황순범입니다.
-지금은 React를 활용한 B2B 클라이언트 페이지를 제작중이고,
+지금은 React를 활용한 B2B 클라이언트 프로젝트를 진행중이고,
 React Native를 활용해 반려동물 서비스를 관리하고 있어요.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark)
