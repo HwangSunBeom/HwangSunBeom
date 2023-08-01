@@ -1,6 +1,6 @@
 Hi, 프론트 개발자 황순범입니다 :)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark)
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark) -->
 
 
 ## Developer Stacks
