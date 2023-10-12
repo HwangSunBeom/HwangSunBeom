@@ -1,4 +1,4 @@
-Hi, 프론트 개발자 황순범입니다 :)
+Hi, 프론트 개발자 황순범입니다 :) 현재는 React와 RN, Next를 중심으로 경험을 쌓고 있습니다.
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark) -->
 
