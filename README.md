@@ -1,6 +1,11 @@
-Hi, 프론트 개발자 황순범입니다 :) 현재는 React와 RN, Next를 중심으로 경험을 쌓고 있습니다.
+Hi, 프론트 개발자 황순범입니다 :) 
 
-<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark) -->
+숭실대학교 컴퓨터학부 4학년 2학기 재학중이고, 벤처중소기업학과 복수전공, ICT유통물류 융합전공을 병행하고 있어요.
+
+
+현재는 React와 RN, Next를 중심으로 경험을 쌓고 있습니다.
+
+(https://github-readme-stats.vercel.app/api?username=HwangSunBeom&show_icons=true&theme=github_dark)
 
 
 ## Developer Stacks
@@ -11,7 +16,7 @@ Hi, 프론트 개발자 황순범입니다 :) 현재는 React와 RN, Next를 중
 <img src="https://img.shields.io/badge/wsbs9805@gmail.com-000000?style=for-the-badge&logo=Gmail&logoColor=#EA4335"/>
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSunBeom&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+(https://github-readme-stats.vercel.app/api/top-langs/?username=HwangSunBeom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
