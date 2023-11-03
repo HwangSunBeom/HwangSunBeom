@@ -20,6 +20,7 @@ Hi, 소프트웨어 개발로 정갈한 세상을 만들고 싶은 Front-End Dev
 
 ## 📚 Study
 - [JS-Deep-Dive](https://github.com/likelion-ssu/JS-Deep-Dive)
+- [React-Query(~ing)](https://github.com/HwangSunBeom/React-Query)
 
 
 ## Developer Stacks
