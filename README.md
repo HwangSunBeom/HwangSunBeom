@@ -1,4 +1,4 @@
-Hi, 소프트웨어 개발로 정갈한 세상을 만들고 싶은 Front-End Developer, 황순범입니다 :)
+Hi, 소프트웨어 개발로 정갈한 세상을 만들고 싶은 Front-End Developer, 황순범입니다.
 
 ---
 
