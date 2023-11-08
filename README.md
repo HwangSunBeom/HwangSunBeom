@@ -1,4 +1,5 @@
 Hi, 소프트웨어 개발로 정갈한 세상을 만들고 싶은 Front-End Developer, 황순범입니다.
+[![UX에 대한 고민으로, ; 세상을 정갈하게 만들고 싶은, ; FE Developer 황순범입니다.](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ---
 
