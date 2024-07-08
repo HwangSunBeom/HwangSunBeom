@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=UX에+대한+고민으로,;세상을+정갈하게+만들고+싶은,;FE+Developer,+황순범입니다.)](https://git.io/typing-svg)
 ## 🏢 Work
-- (주) 슈퍼펫 프론트엔드 개발자 `2022.11 ~ now`
+- (주) 슈퍼펫 프론트엔드 개발자 `2022.11 ~ 2024.02`
 - The Pool Network 프론트엔드 개발자 `2022.02 ~ 2022.10`
 
 ---
